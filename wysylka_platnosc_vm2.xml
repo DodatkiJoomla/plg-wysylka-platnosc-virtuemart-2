@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<install version="1.5" type="plugin" group="system" method="upgrade">
+    <name>Powiązanie wysyłki i płatności dla VM 2</name>
+    <creationDate>2012-12-01</creationDate>
+    <author>Dodatkijoomla.pl</author>
+    <copyright>Copyright (c) 2014 DodatkiJoomla.pl</copyright>
+    <license>GNU/GPL v2</license>
+    <authorEmail>kontakt@dodatkijoomla.pl</authorEmail>
+    <authorUrl>http://dodatkijoomla.pl</authorUrl>
+    <version>1.2.0</version>
+    <description>Dodatek wiążący wysyłki z płatnościami w Virtuemart 2.</description>
+    <languages></languages>
+	<files>
+		<filename plugin="wysylka_platnosc_vm2">wysylka_platnosc_vm2.php</filename>
+	</files>
+</install>
